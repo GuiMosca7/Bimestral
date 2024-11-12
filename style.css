@@ -63,7 +63,7 @@
   }
   
   .header {
-    background-color: #5c5c5c;
+    background-color: #586875;
     padding: 30px 40px;
     margin: 0px auto;
     color: white;
@@ -103,4 +103,8 @@
   
   .addBtn:hover {
     background-color: #bbb;
+  }
+  
+  body{
+    background-color: #e3e5d7;
   }
